@@ -27,3 +27,6 @@ First stop Apache, if installed.
      
 
 ![](https://user-images.githubusercontent.com/9384127/230905418-11e82dbf-be28-4de3-8748-d8857eee2155.png)
+
+#### Run
+* /etc/mod_wsgi-express-80/apachectl start
