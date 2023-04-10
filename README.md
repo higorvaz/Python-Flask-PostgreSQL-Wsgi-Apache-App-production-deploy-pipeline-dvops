@@ -14,5 +14,4 @@ First stop Apache, if installed.
 *   virtualenv env
 *   source env/bin/activate
 
-(env) root@localhost:/home/customersiteurl.com.br# pip install mod-wsgi-httpd
-B
+(env) root@localhost:/home/python-flask-production-app#
