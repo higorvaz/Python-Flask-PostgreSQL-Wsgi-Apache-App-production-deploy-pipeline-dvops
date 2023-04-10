@@ -4,10 +4,9 @@
 
 First stop Apache, if installed.
 
-#### Files structure 
+#### Files structure
 
 ![](https://user-images.githubusercontent.com/9384127/230894921-8a13d915-022e-4343-afbe-01009548ff83.png)
-
 
 #### Create and activate the venv source
 
@@ -17,9 +16,14 @@ First stop Apache, if installed.
 (env) root@localhost:/home/python-flask-production-app#
 
 #### Requirements
-* pip install Flask
-* pip install mod-wsgi-httpd
-* pip install mod-wsgi
+
+*   pip install Flask
+*   pip install mod-wsgi-httpd
+*   pip install mod-wsgi
 
 #### Configure
-* (env) root@localhost:/home/python-flask-production-app# mod_wsgi-express setup-server wsgi.py --port=80     --user www-data --group www-data     --server-root=/etc/mod_wsgi-express-80
+
+*   (env) root@localhost:/home/python-flask-production-app# mod\_wsgi-express setup-server wsgi.py --port=80 --user www-data --group www-data --server-root=/etc/mod\_wsgi-express-80  
+     
+
+![](https://user-images.githubusercontent.com/9384127/230905418-11e82dbf-be28-4de3-8748-d8857eee2155.png)
