@@ -17,4 +17,4 @@ First stop Apache, if installed.
 (env) root@localhost:/home/python-flask-production-app#
 
 #### Requirements
-* pip install flask
+* pip install Flask
