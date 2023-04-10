@@ -22,4 +22,4 @@ First stop Apache, if installed.
 * pip install mod-wsgi
 
 #### Configure
-* 
+* (env) root@localhost:/home/python-flask-production-app# mod_wsgi-express setup-server wsgi.py --port=80     --user www-data --group www-data     --server-root=/etc/mod_wsgi-express-80
