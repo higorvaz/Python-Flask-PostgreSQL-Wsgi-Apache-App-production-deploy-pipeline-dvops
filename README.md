@@ -18,3 +18,8 @@ First stop Apache, if installed.
 
 #### Requirements
 * pip install Flask
+* pip install mod-wsgi-httpd
+* pip install mod-wsgi
+
+#### Configure
+* 
