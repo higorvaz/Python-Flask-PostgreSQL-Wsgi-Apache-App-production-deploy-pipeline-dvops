@@ -14,6 +14,8 @@ First stop Apache, if installed.
 
 *   nano -lASimYpython wsgi.py
 
+![](https://user-images.githubusercontent.com/9384127/230911909-78a90717-b9ec-43e3-9e70-78244d76bb3c.png)
+
 #### Create and activate the venv source
 
 *   virtualenv env
