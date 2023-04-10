@@ -41,9 +41,11 @@ First stop Apache, if installed.
 
 ![](https://user-images.githubusercontent.com/9384127/230910229-3a0ac85c-a045-4e9b-b06d-1f45de156fba.png)
 
+IP Access
+
 ![](https://user-images.githubusercontent.com/9384127/230913489-1ffa842a-4317-4c3f-9a6a-797d1647d72d.png)
 
-IP Access  
+  
 URL Access (needed is an A subdomain configure at registar/cloudfare/e.g)
 
 ![](https://user-images.githubusercontent.com/9384127/230913608-bcd78aa8-9f11-4e79-a450-56a12b80dab8.png)
