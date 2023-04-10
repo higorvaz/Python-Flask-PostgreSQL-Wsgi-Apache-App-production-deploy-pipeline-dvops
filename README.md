@@ -23,10 +23,12 @@ First stop Apache, if installed.
 
 #### Configure
 
-*   (env) root@localhost:/home/python-flask-production-app# mod\_wsgi-express setup-server wsgi.py --port=80 --user www-data --group www-data --server-root=/etc/mod\_wsgi-express-80  
-     
+*   (env) root@localhost:/home/python-flask-production-app# mod\_wsgi-express setup-server wsgi.py --port=80 --user www-data --group www-data --server-root=/etc/mod\_wsgi-express-80
 
 ![](https://user-images.githubusercontent.com/9384127/230905418-11e82dbf-be28-4de3-8748-d8857eee2155.png)
 
 #### Run
-* /etc/mod_wsgi-express-80/apachectl start
+
+*   /etc/mod\_wsgi-express-80/apachectl start
+
+![](https://user-images.githubusercontent.com/9384127/230910229-3a0ac85c-a045-4e9b-b06d-1f45de156fba.png)
