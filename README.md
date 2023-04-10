@@ -7,9 +7,12 @@ First stop Apache, if installed.
 #### Files structure
 
 ![](https://user-images.githubusercontent.com/9384127/230894921-8a13d915-022e-4343-afbe-01009548ff83.png)
-* nano -lASimYpython app.py
-* nano -lASimYpython wsgi.py
 
+*   nano -lASimYpython app.py
+
+![](https://user-images.githubusercontent.com/9384127/230911418-56db5b90-643b-4b4a-8b86-29c723b303e7.png)
+
+*   nano -lASimYpython wsgi.py
 
 #### Create and activate the venv source
 
